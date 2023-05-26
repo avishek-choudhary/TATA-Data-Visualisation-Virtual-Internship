@@ -1,0 +1,13 @@
+CEO's Questions of Interest:
+
+1. Which regions are generating the highest and lowest revenue streams for our company?
+2. What is the monthly revenue trend, and which months have experienced the most significant increases or decreases?
+3. Which months have contributed the most to our overall revenue? Is there a recognizable pattern of seasonality in sales?
+4. Who are our top customers in terms of revenue contribution? How reliant is our business on these customers, and do we have a diverse customer base?
+
+CMO's Questions of Interest:
+
+1. What percentage of our customers are repeat purchasers, and do they tend to repurchase the same products or explore different options?
+2. How long does it typically take for our repeat customers to place their next order after their previous purchase?
+3. What is the revenue generated from customers who make multiple repeat purchases?
+4. Who are our most loyal customers with the highest number of repeat orders, and how much revenue do they generate for the company?
